@@ -89,4 +89,16 @@ footer {
 
 .back-button:hover {
     background-color: #555;
+}
+
+.countdown {
+    font-size: 3rem;
+    color: #ff4444;
+    margin: 20px 0;
+}
+
+.shutdown-message {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 20px;
 } 
